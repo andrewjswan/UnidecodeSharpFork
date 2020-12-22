@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>UnidecodeSharpFork</id>
+        <version>1.0.1</version>
+        <authors>Dima Stefantsov</authors>
+        <projectUrl>https://bitbucket.org/DimaStefantsov/unidecodesharpfork</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Provides string or char extension method Unidecode() that returns transliterated string.</description>
+    </metadata>
+</package>
